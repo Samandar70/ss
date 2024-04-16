@@ -1,0 +1,11 @@
+.conteiner{
+    display: flex;
+}
+.box{
+        border: solid 5px blue;
+        height: 80px;
+        width: 200px;
+}
+.box1{
+    transform: rotate(20deg);
+}
